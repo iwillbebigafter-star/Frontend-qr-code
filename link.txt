@@ -1,0 +1,2 @@
+repository URL : https://github.com/iwillbebigafter-star/Frontend-qr-code;
+live URL : https://iwillbebigafter-star.github.io/Frontend-qr-code/;
